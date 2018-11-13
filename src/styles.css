@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  height: 1000px;
+  margin: 0;
+  padding: 0;
+  background-color: #ffa441;
+}
+.activity {
+  width: 80%;
+}
+.header {
+  text-align: center;
+  padding: 20px;
+}

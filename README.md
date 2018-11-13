@@ -1,2 +1,0 @@
-# ArundelHourOfCode
-Created with CodeSandbox
